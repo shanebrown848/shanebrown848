@@ -65,7 +65,62 @@ I built a complete AWS networking portfolio demonstrating enterprise-level cloud
 - Built S3 buckets with proper access controls
 - Used AWS CLI for object management
 
-View the complete portfolio with documentation at github.com/shanebrown848
+View the complete portfolio at [github.com/shanebrown848/AWS-Networking-Projects-Portfolio](https://github.com/shanebrown848/AWS-Networking-Projects-Portfolio)
+
+### AWS Cloud Security Portfolio
+
+I built security-focused AWS projects demonstrating threat detection, encryption, and monitoring capabilities:
+
+**IAM Access Control**
+- Designed least-privilege IAM policies
+- Created scoped permissions for users and roles
+- Enforced separation of duties across AWS resources
+
+**Encryption & Key Management**
+- Implemented AWS KMS for data encryption
+- Encrypted DynamoDB tables with customer-managed keys
+- Managed key rotation and access policies
+
+**Secrets Management**
+- Migrated hardcoded credentials to AWS Secrets Manager
+- Configured secure AWS SDK authentication
+- Automated credential rotation
+
+**Threat Detection**
+- Configured AWS GuardDuty for suspicious activity monitoring
+- Simulated attacks to test detection capabilities
+- Tuned findings and response workflows
+
+**Security Monitoring System**
+- Built CloudTrail + CloudWatch + SNS alert pipeline
+- Monitored sensitive API actions in real time
+- Automated security event notifications
+
+View the complete portfolio at [github.com/shanebrown848/AWS-cloud-security-portfolio](https://github.com/shanebrown848/AWS-cloud-security-portfolio)
+
+### AWS Databases Portfolio
+
+I built relational and NoSQL database solutions integrated with cloud applications:
+
+**Relational Databases (Amazon Aurora)**
+- Deployed managed Aurora MySQL databases
+- Connected Aurora to EC2 instances
+- Built PHP web application with Aurora backend
+- Configured database security groups and access control
+
+**NoSQL Databases (Amazon DynamoDB)**
+- Created DynamoDB tables with proper capacity planning
+- Loaded data using AWS CLI
+- Queried data with partition keys and sort keys
+- Implemented DynamoDB transactions
+
+**Database Integration**
+- Connected web applications to cloud databases
+- Configured secure database authentication
+- Optimized query performance
+- Managed database scaling and capacity
+
+View the complete portfolio at [github.com/shanebrown848/AWS-databases-portfolio](https://github.com/shanebrown848/AWS-databases-portfolio)
 
 ### Security Projects
 
@@ -81,25 +136,28 @@ View the complete portfolio with documentation at github.com/shanebrown848
 ### Technical Documentation
 
 I created professional documentation for all projects:
-- Master AWS Networking portfolio README
+- Master AWS portfolios with consistent structure
 - Individual project documentation with diagrams
 - Website Work Log showing measurable business impact
 - Task tracking system for performance reviews
-- Recruiter-ready GitHub structure
+- Recruiter-ready GitHub repositories
 
 ## Technical Skills
 
 **Cloud & Infrastructure**  
-AWS (VPC, EC2, IAM, S3, CloudWatch), Azure, Oracle Cloud, VPC Peering, VPC Endpoints, VPC Flow Logs, AWS CLI, CloudShell
+AWS (VPC, EC2, IAM, S3, CloudWatch, KMS, Secrets Manager, GuardDuty, CloudTrail, SNS), Aurora, DynamoDB, Azure, Oracle Cloud, VPC Peering, VPC Endpoints, VPC Flow Logs, AWS CLI, CloudShell
 
 **Networking**  
 CIDR notation, Route Tables, Internet Gateways, NAT, Security Groups, Network ACLs, Traffic routing, Network isolation, Multi-VPC architecture
 
 **Security**  
-Kali Linux, Parrot OS, Wireshark, Nmap, Burp Suite, Splunk, IAM policies, Least-privilege enforcement, Defense in depth, Traffic monitoring, Security Groups
+IAM policy design, Least-privilege enforcement, AWS KMS encryption, Secrets management, Threat detection (GuardDuty), Security monitoring (CloudTrail + CloudWatch), Defense in depth, Traffic monitoring, Kali Linux, Parrot OS, Wireshark, Nmap, Burp Suite, Splunk
+
+**Databases**  
+Amazon Aurora (MySQL), DynamoDB, NoSQL data modeling, Query optimization, Database-to-application integration, Partition keys and sort keys, Database transactions
 
 **Development**  
-JavaScript, Python, HTML5, CSS3, SQL, Bash, React.js, Node.js, Express, Astro.js, Vite, GSAP, .NET Blazor
+JavaScript, Python, HTML5, CSS3, SQL, Bash, PHP, React.js, Node.js, Express, Astro.js, Vite, GSAP, .NET Blazor
 
 **Web & CMS**  
 WordPress, Elementor Pro, Custom CSS/JS integration, Google Analytics, Responsive design
@@ -112,9 +170,13 @@ Git/GitHub, VSCode, Postman, Figma, Linux command line, SSH, Markdown, Technical
 
 ## Core Competencies
 
-**Infrastructure + Security:** I design cloud architectures with security built in from the start. Every VPC gets proper isolation. Every resource gets least-privilege access.
+**Infrastructure + Security:** I design cloud architectures with security built in from the start. Every VPC gets proper isolation. Every resource gets least-privilege access. I encrypt data at rest and in transit.
 
-**Networking + Monitoring:** I build networks that route traffic correctly and log everything needed for security analysis. I use CloudWatch Logs Insights to investigate traffic patterns.
+**Networking + Monitoring:** I build networks that route traffic correctly and log everything needed for security analysis. I use CloudWatch Logs Insights to investigate traffic patterns. I configure alerts for suspicious activity.
+
+**Databases + Applications:** I integrate relational and NoSQL databases with web applications. I design queries for performance. I configure secure database access without exposing credentials.
+
+**Threat Detection + Response:** I configure GuardDuty for threat detection. I build monitoring pipelines with CloudTrail and CloudWatch. I automate security alerts using SNS.
 
 **Cloud + Production Work:** I operate live cloud systems and production websites. I know the difference between lab exercises and real environments where mistakes cost money.
 
@@ -128,9 +190,9 @@ I run Sinister Gate Designs LLC. I build secure websites and provide cybersecuri
 
 ## Learning Path
 
-Studying Cybersecurity at Arizona State University. Working toward Security+ certification. Building hands-on AWS projects while learning network security and cloud architecture.
+Studying Cybersecurity at Arizona State University. Working toward Security+ certification. Building hands-on AWS projects covering networking, security, databases, and monitoring.
 
-I learn by building. Every project teaches me something new. I moved from learning cloud concepts to operating cloud systems in production.
+I learn by building. Every project teaches me something new. I moved from learning cloud concepts to operating cloud systems with real security controls and monitoring.
 
 ## Side Projects
 
@@ -148,7 +210,7 @@ The technical thinking from electrical work translates well to code. Problem sol
 
 ## Connect
 
-**Portfolio:** [ShanesDesignStudio.tech](https://shanesdesignstudio.tech)  
+**Portfolio:** [ShanesdesignStudio.tech](https://shanesdesignstudio.tech)  
 **Business:** [SinisterGateDesigns.com](https://sinistergatedesigns.com)  
 **Email:** shanebrown@sinistergatedesigns.com
 
