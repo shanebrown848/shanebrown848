@@ -4,29 +4,6 @@ Web Developer | Cybersecurity Specialist | Former Electrician Turned Code Builde
 
 I went from wiring buildings to writing code. Now I build secure websites and develop AI tools that solve real problems.
 
-## 2025 Highlights
-
-### Production Web Development at Diné College
-
-I manage the dinecollege.edu website as Web Developer in IT & Marketing. This year I delivered:
-
-**Site-Wide Recovery & Modernization**
-- Rebuilt all widgets after WordPress core update broke site functionality
-- Audited and fixed 50+ pages individually
-- Redesigned Student Activities page with interactive elements
-- Built Alumni and donation flow pages
-- Created IRB and institutional pages
-- Configured Google Analytics tracking across the site
-
-**Technical Operations & Reporting**
-- Created formal Website Work Log & Impact Report for performance reviews
-- Generated marketing analytics reports for stakeholders
-- Analyzed IT portal requests and traffic patterns
-- Managed live streaming setup using YOLOBox for campus events
-- Provided media and technical support for live broadcasts
-
-**Technologies Used:** WordPress, Elementor Pro, Custom CSS/JS, Google Analytics
-
 ## Tech Stack
 
 ### Cloud & Infrastructure
@@ -54,6 +31,30 @@ I manage the dinecollege.edu website as Web Developer in IT & Marketing. This ye
 ![Security](https://skillicons.dev/icons?i=kali)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
+
+## 2025 Highlights
+
+### Production Web Development at Diné College
+
+I manage the dinecollege.edu website as Web Developer in IT & Marketing. This year I delivered:
+
+**Site-Wide Recovery & Modernization**
+- Rebuilt all widgets after WordPress core update broke site functionality
+- Audited and fixed 50+ pages individually
+- Redesigned Student Activities page with interactive elements
+- Built Alumni and donation flow pages
+- Created IRB and institutional pages
+- Configured Google Analytics tracking across the site
+
+**Technical Operations & Reporting**
+- Created formal Website Work Log & Impact Report for performance reviews
+- Generated marketing analytics reports for stakeholders
+- Analyzed IT portal requests and traffic patterns
+- Managed live streaming setup using YOLOBox for campus events
+- Provided media and technical support for live broadcasts
+
+**Technologies Used:** WordPress, Elementor Pro, Custom CSS/JS, Google Analytics
+
 
 ### AWS Cloud Infrastructure Portfolio
 
