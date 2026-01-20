@@ -4,33 +4,113 @@ Web Developer | Cybersecurity Specialist | Former Electrician Turned Code Builde
 
 I went from wiring buildings to writing code. Now I build secure websites and develop AI tools that solve real problems.
 
-## Tech Stack
+<!-- Tech Stack (V layout) -->
+<table align="center">
+  <!-- Frameworks & Libraries (widest) -->
+  <tr>
+    <td colspan="9" align="center"><b>Frameworks & Libraries</b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg" /></td>
+    <td></td>
+  </tr>
 
-### Cloud & Infrastructure
-![Cloud](https://skillicons.dev/icons?i=aws,azure,linux,bash)
+  <!-- Languages (narrower) -->
+  <tr><td colspan="9" height="10"></td></tr>
+  <tr>
+    <td colspan="9" align="center"><b>Languages</b></td>
+  </tr>
+  <tr>
+    <td></td><td></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></td>
+    <td></td><td></td>
+  </tr>
 
-### Languages
-![Languages](https://skillicons.dev/icons?i=js,py,html,css,php)
+  <!-- Tools (narrower) -->
+  <tr><td colspan="9" height="10"></td></tr>
+  <tr>
+    <td colspan="9" align="center"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td></td><td></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></td>
+    <td></td><td></td>
+  </tr>
 
-### Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,vite,dotnet)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)
+  <!-- Cloud & Infrastructure (point of the V) -->
+  <tr><td colspan="9" height="10"></td></tr>
+  <tr>
+    <td colspan="9" align="center"><b>Cloud & Infrastructure</b></td>
+  </tr>
+  <tr>
+    <td></td><td></td><td></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></td>
+    <td></td><td></td><td></td>
+  </tr>
 
-### Web & CMS
-![Web](https://skillicons.dev/icons?i=wordpress)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
+  <!-- Security Tools (wider again) -->
+  <tr><td colspan="9" height="10"></td></tr>
+  <tr>
+    <td colspan="9" align="center"><b>Security Tools</b></td>
+  </tr>
+  <tr>
+    <td></td><td></td>
+    <td align="center"><img width="44" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" /></td>
+    <td align="center"><img width="44" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.simpleicons.org/nmap/FFFFFF" /></td>
+    <td align="center"><img width="44" src="https://cdn.simpleicons.org/burpsuite/FFFFFF" /></td>
+    <td align="center"><img width="44" src="https://cdn.simpleicons.org/splunk/FFFFFF" /></td>
+    <td></td><td></td>
+  </tr>
 
-### Databases
-![Databases](https://skillicons.dev/icons?i=mysql,dynamodb)
+  <!-- Web & CMS (wider) -->
+  <tr><td colspan="9" height="10"></td></tr>
+  <tr>
+    <td colspan="9" align="center"><b>Web & CMS</b></td>
+  </tr>
+  <tr>
+    <td></td><td></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /></td>
+    <td align="center"><img width="44" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Elementor_Logo.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.simpleicons.org/googleanalytics/FFFFFF" /></td>
+    <td></td><td></td><td></td><td></td>
+  </tr>
 
-### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)
+  <!-- Databases (widest-ish end) -->
+  <tr><td colspan="9" height="10"></td></tr>
+  <tr>
+    <td colspan="9" align="center"><b>Databases</b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></td>
+    <td align="center"><img width="44" src="https://cdn.simpleicons.org/amazondynamodb/FFFFFF" /></td>
+    <td align="center"><img width="44" src="https://cdn.simpleicons.org/amazonrds/FFFFFF" /></td>
+    <td align="center"><img width="44" src="https://cdn.simpleicons.org/amazonaurora/FFFFFF" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-### Security Tools
-![Security](https://skillicons.dev/icons?i=kali)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
 
 ## 2025 Highlights
 
