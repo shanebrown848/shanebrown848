@@ -4,112 +4,74 @@ Web Developer | Cybersecurity Specialist | Former Electrician Turned Code Builde
 
 I went from wiring buildings to writing code. Now I build secure websites and develop AI tools that solve real problems.
 
-<!-- Tech Stack (V layout) -->
-<table align="center">
-  <!-- Frameworks & Libraries (widest) -->
-  <tr>
-    <td colspan="9" align="center"><b>Frameworks & Libraries</b></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg" /></td>
-    <td></td>
-  </tr>
+<h2 align="center">Tech Stack</h2>
 
-  <!-- Languages (narrower) -->
-  <tr><td colspan="9" height="10"></td></tr>
-  <tr>
-    <td colspan="9" align="center"><b>Languages</b></td>
-  </tr>
-  <tr>
-    <td></td><td></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></td>
-    <td></td><td></td>
-  </tr>
+<!-- Frameworks & Libraries (widest) -->
+<h3 align="center">Frameworks & Libraries</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg" width="46"/>
+</p>
 
-  <!-- Tools (narrower) -->
-  <tr><td colspan="9" height="10"></td></tr>
-  <tr>
-    <td colspan="9" align="center"><b>Tools</b></td>
-  </tr>
-  <tr>
-    <td></td><td></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></td>
-    <td></td><td></td>
-  </tr>
+<!-- Languages -->
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="46"/>
+</p>
 
-  <!-- Cloud & Infrastructure (point of the V) -->
-  <tr><td colspan="9" height="10"></td></tr>
-  <tr>
-    <td colspan="9" align="center"><b>Cloud & Infrastructure</b></td>
-  </tr>
-  <tr>
-    <td></td><td></td><td></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></td>
-    <td></td><td></td><td></td>
-  </tr>
+<!-- Tools -->
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="46"/>
+</p>
 
-  <!-- Security Tools (wider again) -->
-  <tr><td colspan="9" height="10"></td></tr>
-  <tr>
-    <td colspan="9" align="center"><b>Security Tools</b></td>
-  </tr>
-  <tr>
-    <td></td><td></td>
-    <td align="center"><img width="44" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" /></td>
-    <td align="center"><img width="44" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.simpleicons.org/nmap/FFFFFF" /></td>
-    <td align="center"><img width="44" src="https://cdn.simpleicons.org/burpsuite/FFFFFF" /></td>
-    <td align="center"><img width="44" src="https://cdn.simpleicons.org/splunk/FFFFFF" /></td>
-    <td></td><td></td>
-  </tr>
+<!-- Cloud & Infrastructure (tip of the V) -->
+<h3 align="center">Cloud & Infrastructure</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="46"/>
+</p>
 
-  <!-- Web & CMS (wider) -->
-  <tr><td colspan="9" height="10"></td></tr>
-  <tr>
-    <td colspan="9" align="center"><b>Web & CMS</b></td>
-  </tr>
-  <tr>
-    <td></td><td></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /></td>
-    <td align="center"><img width="44" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Elementor_Logo.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.simpleicons.org/googleanalytics/FFFFFF" /></td>
-    <td></td><td></td><td></td><td></td>
-  </tr>
+<!-- Security Tools -->
+<h3 align="center">Security Tools</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="46"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="46"/>
+  <img src="https://cdn.simpleicons.org/nmap/ffffff" width="46"/>
+  <img src="https://cdn.simpleicons.org/burpsuite/ffffff" width="46"/>
+  <img src="https://cdn.simpleicons.org/splunk/ffffff" width="46"/>
+</p>
 
-  <!-- Databases (widest-ish end) -->
-  <tr><td colspan="9" height="10"></td></tr>
-  <tr>
-    <td colspan="9" align="center"><b>Databases</b></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td align="center"><img width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></td>
-    <td align="center"><img width="44" src="https://cdn.simpleicons.org/amazondynamodb/FFFFFF" /></td>
-    <td align="center"><img width="44" src="https://cdn.simpleicons.org/amazonrds/FFFFFF" /></td>
-    <td align="center"><img width="44" src="https://cdn.simpleicons.org/amazonaurora/FFFFFF" /></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<!-- Web & CMS -->
+<h3 align="center">Web & CMS</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="46"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Elementor_Logo.svg" width="46"/>
+  <img src="https://cdn.simpleicons.org/googleanalytics/ffffff" width="46"/>
+</p>
+
+<!-- Databases -->
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="46"/>
+  <img src="https://cdn.simpleicons.org/amazondynamodb/ffffff" width="46"/>
+  <img src="https://cdn.simpleicons.org/amazonrds/ffffff" width="46"/>
+  <img src="https://cdn.simpleicons.org/amazonaurora/ffffff" width="46"/>
+</p>
 
 
 ## 2025 Highlights
