@@ -238,7 +238,7 @@ The technical thinking from electrical work translates well to code. Problem sol
 
 ## Connect
 
-**Portfolio:** [ShanesdesignStudio.tech](https://shanesdesignstudio.tech)  
+**Portfolio:** [ShanesdesignStudio.cloud](https://shanesdesignstudio.cloud)  
 **Business:** [SinisterGateDesigns.com](https://sinistergatedesigns.com)  
 **Email:** shanebrown@sinistergatedesigns.com
 
