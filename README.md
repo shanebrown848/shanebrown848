@@ -229,7 +229,7 @@ I write the Hacker Series - cybersecurity awareness articles covering real breac
 
 I create Inspire to Hire - real stories from tech professionals for students and job hunters.
 
-I run [TheEchoedMelodies.com](https://theechoedmelodies.com) - music reviews and underground metal coverage.
+I run [TheEchoedMelodies.blog](https://theechoedmelodies.blog) - music reviews and underground metal coverage.
 
 ## Background
 
