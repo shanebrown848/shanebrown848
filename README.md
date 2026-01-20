@@ -3,8 +3,8 @@
 Web Developer | Cybersecurity Specialist | Former Electrician Turned Code Builder
 
 I went from wiring buildings to writing code. Now I build secure websites and develop AI tools that solve real problems.
-
-<div align="left">
+# TECH I HAVE WORKED WITH
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
