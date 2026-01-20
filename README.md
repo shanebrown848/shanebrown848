@@ -30,48 +30,30 @@ I manage the dinecollege.edu website as Web Developer in IT & Marketing. This ye
 ## Tech Stack
 
 ### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![Cloud](https://skillicons.dev/icons?i=aws,azure,linux,bash)
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Languages](https://skillicons.dev/icons?i=js,py,html,css,php)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,vite,dotnet)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)
 
 ### Web & CMS
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![Web](https://skillicons.dev/icons?i=wordpress)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
 
-### Security Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
-
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
+![Databases](https://skillicons.dev/icons?i=mysql,dynamodb)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)
+
+### Security Tools
+![Security](https://skillicons.dev/icons?i=kali)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
 
 ### AWS Cloud Infrastructure Portfolio
 
