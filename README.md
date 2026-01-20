@@ -160,15 +160,7 @@ I went from wiring buildings to writing code. Now I build secure websites and de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shanebrown848/shanebrown848/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shanebrown848/shanebrown848/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shanebrown848/shanebrown848/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 ## 2025 Highlights
 
